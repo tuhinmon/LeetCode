@@ -1,4 +1,4 @@
-//  Kth Largest Element in an Array
+//  Kth Largest Element in an Array.
 int findKthLargest(vector<int>& nums, int k) {
         int size =0;
         sort(nums.begin(),nums.end());
